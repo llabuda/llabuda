@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 
 
+My name is Luke and I live in the Cleveland, Oh area.
+I'm currently enrolled in tech elevators full stack development course and look forward to learning the ins and outs of programming!
 <!--
 **llabuda/llabuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
