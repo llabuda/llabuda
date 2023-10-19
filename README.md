@@ -1,7 +1,9 @@
 ### Hi there 
 
 My name is Luke and I live in the Cleveland, Oh area.
-I'm currently enrolled in tech elevators full stack development course and look forward to learning the ins and outs of programming!
+I've always been fascinated with interactions; why things do the things they do, what makes things do the things they do, and how things do the things they do. I'm finally at that last part of puzzle and realizing just how large of scope Software Development really is; it has no bounds. 
+While studying International Relations and Foreign Policy, I was allowed to explore the consequences of the past and how they mold current policy or schools of thought. I didn't need to conform A or B. I could fully form my own theories using mass amount of data. Henry Kissinger previously said "each success only buys an admission ticket to a more difficult problem.” I find this to be just as true in programming. That endless need to move onto the next problem and overcome difficulties is what drives me.
+To me, programming has become just as captivating as the world stage and allows me to utilize the analytical and investigative skills that I've always carried.
 <!--
 **llabuda/llabuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
